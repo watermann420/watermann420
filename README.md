@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m Yannis — a developer and creator focused on building open, long-term
+creative technology.
 
-<!--
-**watermann420/watermann420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m the main developer behind **MusicEngine**, **MusicEditor**, and a custom
+**GameEngine**, forming an ecosystem that combines real-time audio, live coding,
+MIDI, visuals, and interactive systems.
 
-Here are some ideas to get you started:
+My goal is to build powerful tools that are:
+- free and open source
+- technically solid and performance-oriented
+- flexible enough for music, games, tools, and experimental projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These projects are developed independently, driven by curiosity, experimentation,
+and a strong belief in open ecosystems. I’m especially interested in bridging
+audio engines, game technology, and creative workflows in ways that are usually
+locked behind closed or expensive software.
+
+MusicEngine and its related tools are still evolving, but they are built with
+long-term sustainability in mind — prioritizing architecture, clarity, and
+creative freedom over short-term hype.
