@@ -1,4 +1,4 @@
-Hi, I’m Yannis — a developer and creator focused on building open, long-term
+Hi, I’m Yannis  a developer and creator focused on building open, long term
 creative technology.
 
 I’m the main developer behind **MusicEngine**, **MusicEditor**, and a custom
@@ -16,5 +16,5 @@ audio engines, game technology, and creative workflows in ways that are usually
 locked behind closed or expensive software.
 
 MusicEngine and its related tools are still evolving, but they are built with
-long-term sustainability in mind — prioritizing architecture, clarity, and
+long-term sustainability in mind  prioritizing architecture, clarity, and
 creative freedom over short-term hype.
