@@ -17,4 +17,4 @@ locked behind closed or expensive software.
 
 MusicEngine and its related tools are still evolving, but they are built with
 long-term sustainability in mind  prioritizing architecture, clarity, and
-creative freedom over short-term hype.
+creative freedom over short-term success.
